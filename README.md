@@ -27,8 +27,7 @@
 1. **Gold Exploration using Sentinel-2,Landsat 7,Landsat 8,Landsat 9, ASTER**  
    - Extracted fault lines using PCI Geomatica  
    - Detected iron oxides & hydroxyl minerals via PCA & Band Ratio  
-   - Generated prospecting maps for Saudi Arabia (19.645 N, 43.418 E)
-
+   - Generated prospecting maps for Saudi Arabia , Sudan , Algeria , Mauritania
 2. **Topographic Mapping**  
    - Created high-accuracy maps using GPS and satellite imagery  
 
