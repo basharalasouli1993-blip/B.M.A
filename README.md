@@ -9,8 +9,8 @@
 - **Nationality**: Jordanian  
 - **Email**: basharalasouli1993@gmail.com  
 - **Phone**: +962 77 674 7591  
-- **Location**: Ajloun, Jordan  
-- **LinkedIn**: [Add your LinkedIn if available]
+- **Location**: amman, Jordan  
+- **LinkedIn**: www.linkedin.com/in/bashar-alasouli
 
 ---
 
