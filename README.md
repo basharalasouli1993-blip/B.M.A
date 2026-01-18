@@ -36,7 +36,7 @@
 ---
 
 ## CV
-[Download Full CV (PDF)](CV bashar alasouli 2026.pdf)
+[Download Full CV (PDF)](https://raw.githubusercontent.com/basharalasouli1993-blip/B.M.A/main/CV%20bashar%20alasouli%202026.pdf))
 
 ---
 
