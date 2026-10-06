@@ -1,13 +1,12 @@
-# Saudi Arabia — Report Catalogue
+# Saudi Arabia — Public Reports
 
 [Report library](../README.md) · [Portfolio home](../../README.md)
 
-Original files are preserved at the repository root. Filenames below identify the inventory; raw PDFs are not linked here pending public-edition privacy review.
+Public PDF copies with identified coordinates, precise place identifiers and study-boundary links redacted. Original files remain unchanged at the repository root.
 
-| Original filename | File status |
-| :--- | :--- |
-| `Detect gold in SaudiArabia SW arabic language.pdf` | Preserved unchanged |
-| `Detect gold in SaudiArabia SW.pdf` | Preserved unchanged |
-| `Saudi arabia  first report (Intro) .pdf` | Preserved; invalid PDF / 13-byte legacy file |
+| Report | Pages |
+|---|---:|
+| [Detect gold in SaudiArabia SW arabic language.pdf](Detect%20gold%20in%20SaudiArabia%20SW%20arabic%20language_Public.pdf) | 15 |
+| [Detect gold in SaudiArabia SW.pdf](Detect%20gold%20in%20SaudiArabia%20SW_Public.pdf) | 15 |
 
-No coordinates, boundary download links or client-specific map images are reproduced in this catalogue.
+The original `Saudi arabia  first report (Intro) .pdf` is a 13-byte file that is not a valid PDF; it remains preserved at its original path.
