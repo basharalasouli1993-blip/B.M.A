@@ -1,12 +1,10 @@
-# Ghana — Report Catalogue
+# Ghana — Public Reports
 
 [Report library](../README.md) · [Portfolio home](../../README.md)
 
-Original files are preserved at the repository root. Filenames below identify the inventory; raw PDFs are not linked here pending public-edition privacy review.
+Public PDF copies with identified coordinates, precise place identifiers and study-boundary links redacted. Original files remain unchanged at the repository root.
 
-| Original filename | File status |
-| :--- | :--- |
-| `final report east ghana (north part) arabic language gold detect.pdf` | Preserved unchanged |
-| `final report east ghana (north part) english gold detect.pdf` | Preserved unchanged |
-
-No coordinates, boundary download links or client-specific map images are reproduced in this catalogue.
+| Report | Pages |
+|---|---:|
+| [final report east ghana (north part) arabic language gold detect.pdf](final%20report%20east%20ghana%20%28north%20part%29%20arabic%20language%20gold%20detect_Public.pdf) | 17 |
+| [final report east ghana (north part) english gold detect.pdf](final%20report%20east%20ghana%20%28north%20part%29%20english%20gold%20detect_Public.pdf) | 17 |
