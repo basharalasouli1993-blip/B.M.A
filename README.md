@@ -1,44 +1,60 @@
-# Bashar Alassouli - Remote Sensing & GIS Portfolio
+# Bashar Mohammad Alassouli
+## Remote Sensing and GIS Portfolio
 
-**Civil Engineer | Remote Sensing Specialist**  
-15+ years of self-taught expertise in satellite image analysis for mineral exploration, land surveying, and geospatial intelligence.
+**Remote Sensing & Geospatial Analyst | Civil Engineering Graduate**
 
----
+Independent satellite imagery analysis, mineral exploration targeting, and technical mapping for international clients.
 
 ## About Me
-- **Nationality**: Jordanian  
-- **Email**: basharalasouli1993@gmail.com  
-- **Phone**: +962 77 674 7591  
-- **Location**: amman, Jordan  
-- **LinkedIn**: www.linkedin.com/in/bashar-alasouli
 
----
+I am based in Ajloun, Jordan, and graduated from Yarmouk University with a Bachelor of Civil Engineering in 2020.
 
-## Key Skills
-- **Remote Sensing**: Sentinel-2, Landsat, ALOS PALSAR, SAR & Optical Data  
-- **GIS Software**: ENVI, ArcGIS, QGIS, SNAP, GAMMA, ASF  
-- **Analysis**: Band Ratio, PCA, Fault Line Extraction, Mineral Mapping  
-- **Surveying**: GPS, Topographic Maps, Aerial Imagery  
-- **AI Integration**: Linking satellite data with AI for enhanced results  
+I have approximately ten years of self-directed learning and practical project work in remote sensing. Between 2022 and 2026, I completed projects for international clients, most of them paid, primarily supporting mineral exploration.
 
----
+I personally perform image processing, interpretation, mapping, and technical report preparation.
 
-## Projects
-1. **Gold Exploration using Sentinel-2,Landsat 7,Landsat 8,Landsat 9, ASTER**  
-   - Extracted fault lines using PCI Geomatica  
-   - Detected iron oxides & hydroxyl minerals via PCA & Band Ratio  
-   - Generated prospecting maps for Saudi Arabia , Sudan , Algeria , Mauritania
-2. **Topographic Mapping**  
-   - Created high-accuracy maps using GPS and satellite imagery  
+## Technical Skills
 
-*(More projects to be uploaded soon)*
+- **Software:** ArcGIS, ENVI, QGIS, PCI Geomatica, and SNAP.
+- **Methods:** Multispectral and SAR analysis, band ratios, Principal Component Analysis (PCA), Minimum Noise Fraction (MNF), structural lineament extraction, and comparisons of historical and recent imagery.
+- **Additional workflows:** Random Forest and deep learning, with AI assistance for Python scripting and deep learning workflows.
+- **Outputs:** Thematic maps, exploration target interpretations, imagery comparisons, and technical reports in Arabic and English.
 
----
+## Selected Project Experience
+
+### International Client Projects | 2022–2026
+
+- **Sudan:** Gold and copper exploration analysis, including Sentinel-2 and ASTER processing and alteration mapping.
+- **Saudi Arabia:** Sentinel-2 analysis of iron oxide and hydroxyl-bearing alteration indicators.
+- **Ghana:** Spectral interpretation and exploration mapping in a vegetated study area.
+- **Mauritania:** Preliminary gold exploration analysis and technical reporting.
+- **Oman:** Interpretation of lithological and spectral indicators associated with chromite exploration.
+- **Jordan:** Mapping of potential copper mineralization zones.
+- **Chad:** Remote sensing reporting on potential mineralization areas.
+
+## Validation
+
+For selected gold and copper targets in Sudan and South Africa, laboratory results from samples linked to target coordinates supported the findings. I personally reviewed the laboratory reports.
+
+Satellite analysis supports exploration targeting. Field investigation and laboratory testing are needed to evaluate targets; satellite imagery alone does not establish ore grades or reserves.
+
+## Education
+
+**Bachelor of Civil Engineering**  
+Yarmouk University — 2020
+
+**Civil Engineering Training**  
+Directorate of Public Works, Irbid — 2017
 
 ## CV
-[Download Full CV (PDF)](https://raw.githubusercontent.com/basharalasouli1993-blip/B.M.A/main/CV%20bashar%20alasouli%202026.pdf)
 
----
+[Download my CV (PDF)](./Bashar_Mohammad_Alassouli_International_CV.pdf)
 
-> **Open for Remote Opportunities** in satellite-based mineral exploration  
-> Contact me for collaboration or freelance projects
+## Contact
+
+- **Email:** basharalasouli1993@gmail.com
+- **Phone:** +962792902438
+- **Location:** Ajloun, Jordan
+- **LinkedIn:** [Bashar Alassouli](https://www.linkedin.com/in/bashar-alasouli/)
+
+**Open to remote employment, consulting, and freelance projects in remote sensing, GIS, and mineral exploration.**
