@@ -23,4 +23,4 @@ The English and Arabic reports explain spectral ratios and composite interpretat
 
 Gold is not directly identified from these multispectral signatures. The analysis concerns alteration proxies and follow-up investigation. This public summary does not claim verified deposits or independently measured classification accuracy.
 
-Original PDFs contain location references and study-boundary links. They are preserved at their existing paths but are not linked or duplicated here. This summary reproduces no coordinates, boundary files or client-specific maps.
+[Open the Arabic and English public reports](../../reports/ghana/README.md). Each public copy retains all 17 pages and the technical figures, with identified coordinates, precise local identifiers and study-boundary links redacted. Original files remain unchanged at their existing paths.

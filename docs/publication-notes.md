@@ -8,7 +8,7 @@ The README separates proposed verification from completed work. Source-report cl
 
 ## Existing reports
 
-Text inspection identified explicit coordinates in the Saudi Arabia, Sudan and Ghana report groups, and study-boundary links in the Ghana reports. Other documents still require image-level identifying-feature review before full promotion. These originals have been preserved without modification; they have not been copied to new report paths.
+13 public PDF editions (159 pages) are copied into country/study folders under `reports/`. Text extraction, OCR and page-image review were used to identify coordinates, precise local identifiers and study-boundary links. Identified details were redacted from the PDF text and image content; metadata, embedded files and link annotations were removed from these copies. All page counts are retained. This review does not guarantee against location inference from terrain imagery. The original files are preserved unchanged, so their existing location details remain accessible at their original paths.
 
 The 13-byte file named `Saudi arabia  first report (Intro) .pdf` could not be parsed as a PDF. It remains unchanged and is identified in the catalogue rather than presented as a working report.
 
@@ -16,7 +16,7 @@ The internal title of `Sudan rich area gold.pdf` identifies an ASTER study in So
 
 ## Available full study
 
-The advanced report's English and Arabic editions remain in the existing Release. The English text and rendered page contact sheets were inspected; the report documents removal of identifying labels and coordinates. This is not a guarantee against location inference from terrain imagery. The portfolio adds no new report imagery or georeferenced data.
+The advanced report's English and Arabic editions remain in the existing Release. The English text and rendered page contact sheets were inspected; the report documents removal of identifying labels and coordinates. This is not a guarantee against location inference from terrain imagery. Public legacy editions retain their technical figures after location redaction; no raw georeferenced layers or study-boundary files are added.
 
 ## Attachments unavailable during this update
 

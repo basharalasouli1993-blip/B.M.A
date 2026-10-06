@@ -97,10 +97,10 @@ Spectral responses indicate surface properties and possible alteration. Mineral 
 [**Browse the organized library →**](reports/README.md)
 
 - **Case studies:** concise project narratives and links to the available location-anonymized reports.
-- **Regional catalogues:** inventories of existing reports by study group.
+- **Public report library:** 13 PDF copies (159 pages), organized by study group with direct report links.
 - **Professional documents:** [CV](professional/Bashar_Mohammad_Alassouli_CV.pdf).
 
-Original repository files remain at their existing paths. Some legacy reports contain location information; their raw PDFs are excluded from the featured navigation pending suitable public editions. The catalogues preserve the inventory without reproducing coordinates or links to study-area boundary data.
+Public copies retain the original page counts and technical figures, with identified coordinates, precise place identifiers and map/boundary links redacted. Original repository files remain unchanged at their existing paths; redacting these copies does not remove location data from the preserved originals.
 
 ## Education
 

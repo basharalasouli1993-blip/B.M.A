@@ -21,4 +21,4 @@ Their methodology discusses atmospheric correction, resampling, cloud and shadow
 
 The source describes hypothetical ground-truth inputs in its methodology. Its numerical classification claims are therefore not adopted here as independently validated performance. Surface patterns and extraction activity are not proof of ore grade or subsurface mineralization.
 
-This summary omits coordinates, local study-area names, client identifiers and analytical maps. The original reports remain intact at their previous repository paths; their inventory is recorded in the regional report catalogue.
+Public PDF editions retain all nine pages in each language and the analytical figures, with identified coordinates and precise local identifiers redacted. [Open the Arabic and English reports](../../reports/sudan/README.md). Original reports remain unchanged at their existing paths.
