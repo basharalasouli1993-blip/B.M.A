@@ -1,11 +1,9 @@
-# Mauritania — Report Catalogue
+# Mauritania — Public Reports
 
 [Report library](../README.md) · [Portfolio home](../../README.md)
 
-Original files are preserved at the repository root. Filenames below identify the inventory; raw PDFs are not linked here pending public-edition privacy review.
+Public PDF copies with identified coordinates, precise place identifiers and study-boundary links redacted. Original files remain unchanged at the repository root.
 
-| Original filename | File status |
-| :--- | :--- |
-| `Detect gold in Mauritania.pdf` | Preserved unchanged |
-
-No coordinates, boundary download links or client-specific map images are reproduced in this catalogue.
+| Report | Pages |
+|---|---:|
+| [Detect gold in Mauritania.pdf](Detect%20gold%20in%20Mauritania_Public.pdf) | 15 |
