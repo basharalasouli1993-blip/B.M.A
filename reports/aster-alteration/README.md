@@ -1,13 +1,11 @@
-# Legacy ASTER Alteration Study — Report Catalogue
+# Aster Alteration — Public Reports
 
 [Report library](../README.md) · [Portfolio home](../../README.md)
 
-Original files are preserved at the repository root. Filenames below identify the inventory; raw PDFs are not linked here pending public-edition privacy review.
+Public PDF copies with identified coordinates, precise place identifiers and study-boundary links redacted. Original files remain unchanged at the repository root.
 
-| Original filename | File status |
-| :--- | :--- |
-| `Sudan rich area gold.pdf` | Preserved unchanged |
+| Report | Pages |
+|---|---:|
+| [Sudan rich area gold.pdf](Sudan%20rich%20area%20gold_Public.pdf) | 12 |
 
-The internal report title refers to Southern Egypt, although the original filename says Sudan. The title/filename mismatch is retained for review.
-
-No coordinates, boundary download links or client-specific map images are reproduced in this catalogue.
+The original filename refers to Sudan, while the report title refers to Southern Egypt. This source discrepancy is retained.
