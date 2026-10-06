@@ -22,4 +22,4 @@ This is the preliminary report already present in the repository. It is not the 
 
 ## Public scope
 
-This summary contains no study maps, precise local identifiers, target coordinates or client details. Original reports remain unchanged in their existing locations. Full report promotion requires review of identifying imagery as well as extracted text.
+Public copies retain the page counts and technical figures, with identified precise location references redacted. [Oman report · 11 pages](../../reports/oman/README.md) · [Mauritania report · 15 pages](../../reports/mauritania/README.md). Original reports remain unchanged in their existing locations.
