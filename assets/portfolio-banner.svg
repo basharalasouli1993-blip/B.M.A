@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+<title id="title">Bashar Mohammad Alassouli — Geospatial Portfolio</title>
+<desc id="desc">Remote sensing, GIS and Earth observation. Abstract contour lines are decorative and contain no real geography.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102638"/><stop offset="1" stop-color="#183e49"/></linearGradient><pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M45 0H0V45" fill="none" stroke="#70b7b5" stroke-opacity=".09"/></pattern></defs>
+<rect width="1280" height="330" rx="18" fill="url(#bg)"/><rect width="1280" height="330" rx="18" fill="url(#grid)"/>
+<g fill="none" stroke="#64c9bf" stroke-width="1.5" opacity=".32">
+<path d="M930-30C800 80 900 130 850 220S920 360 1060 350"/><path d="M960-30C830 90 940 135 880 220S950 350 1090 350"/><path d="M990-30C875 80 970 140 920 225S970 330 1120 350"/><path d="M1020-30C920 80 1015 145 960 225S1030 330 1170 350"/><path d="M1060-30C955 80 1060 145 1010 225S1090 330 1220 350"/><path d="M1100-30C1000 90 1115 155 1060 230S1140 330 1280 350"/>
+</g><g stroke="#dcbd78" fill="none" opacity=".65"><circle cx="1085" cy="145" r="39"/><circle cx="1085" cy="145" r="17"/><path d="M1085 85V205M1025 145H1145"/></g>
+<rect x="60" y="55" width="42" height="4" rx="2" fill="#dcbd78"/>
+<text x="60" y="96" fill="#84d3cb" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">GEOSPATIAL PORTFOLIO</text>
+<text x="60" y="158" fill="#ffffff" font-family="Arial,sans-serif" font-size="43" font-weight="700">Bashar Mohammad Alassouli</text>
+<text x="60" y="207" fill="#d3e2e8" font-family="Arial,sans-serif" font-size="25">Remote Sensing · GIS · Earth Observation</text>
+<text x="60" y="267" fill="#dcbd78" font-family="Arial,sans-serif" font-size="17">SPECTRAL ANALYSIS   /   TERRAIN &amp; STRUCTURE   /   TECHNICAL REPORTING</text>
+</svg>
