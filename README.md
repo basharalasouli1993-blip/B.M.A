@@ -1,92 +1,117 @@
-# Bashar Mohammad Alassouli
+<p align="center"><img src="assets/portfolio-banner.svg" alt="Bashar Mohammad Alassouli | GIS, Remote Sensing and Geospatial Analysis" width="100%"></p>
 
-## Remote Sensing and GIS Portfolio
-
-**Remote Sensing & Geospatial Analyst | Civil Engineering Graduate**
-
-Independent satellite imagery analysis, mineral exploration targeting, and technical mapping for international clients.
-
----
-
-## About Me
-
-I am based in Ajloun, Jordan, and graduated from Yarmouk University with a Bachelor of Civil Engineering in 2020.
-
-I have approximately ten years of self-directed learning and practical project work in remote sensing. Between 2022 and 2026, I completed projects for international clients, most of them paid, primarily supporting mineral exploration.
-
-I personally perform image processing, interpretation, mapping, and technical report preparation.
+<p align="center"><strong>Satellite imagery → spatial evidence → exploration priorities</strong></p>
+<p align="center">
+<a href="professional/Bashar_Mohammad_Alassouli_CV.pdf">View CV</a> ·
+<a href="#featured-projects">Featured projects</a> ·
+<a href="reports/README.md">Report library</a> ·
+<a href="mailto:basharalasouli1993@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/bashar-alasouli/">LinkedIn</a>
+</p>
 
 ---
 
-## Technical Skills
+## Professional profile
 
-- **Software:** ArcGIS, ENVI, QGIS, PCI Geomatica, and SNAP.
-- **Methods:** Multispectral and SAR analysis, band ratios, Principal Component Analysis (PCA), Minimum Noise Fraction (MNF), structural lineament extraction, and comparisons of historical and recent imagery.
-- **Additional workflows:** Random Forest and deep learning, with AI assistance for Python scripting and deep learning workflows.
-- **Outputs:** Thematic maps, exploration target interpretations, imagery comparisons, and technical reports in Arabic and English.
+I am **Bashar Mohammad Alassouli**, a remote sensing and geospatial analyst with a civil engineering background, based in Jordan. My portfolio focuses on satellite image processing, spectral interpretation, terrain and structural analysis, and technical reporting for mineral exploration.
 
----
+I independently carry out imagery processing, interpretation, map preparation and reporting. My CV documents international client project work from **2022–2026** and approximately ten years of self-directed learning and practical work in remote sensing.
 
-## Selected Project Experience
+**Seeking opportunities in GIS, Remote Sensing, Earth Observation and Geospatial Analysis**, including remote employment, consulting and freelance projects.
 
-### International Client Projects | 2022–2026
+## Featured projects
 
-- **Sudan:** Gold and copper exploration analysis, including Sentinel-2 and ASTER processing and alteration mapping.
-- **Saudi Arabia:** Sentinel-2 analysis of iron oxide and hydroxyl-bearing alteration indicators.
-- **Ghana:** Spectral interpretation and exploration mapping in a vegetated study area.
-- **Mauritania:** Preliminary gold exploration analysis and technical reporting.
-- **Oman:** Interpretation of lithological and spectral indicators associated with chromite exploration.
-- **Jordan:** Mapping of potential copper mineralization zones.
-- **Chad:** Remote sensing reporting on potential mineralization areas.
+### 01 / Advanced Gold Exploration Targeting
+**Integrated evidence · Location-anonymized · English & Arabic**
 
-### Advanced Gold Exploration Targeting
+An integrated study that moves from spectral screening to a testable exploration target and a staged field-verification plan.
 
-**Location-Anonymized Case Study**
+- **Methods:** diagnostic band ratios, PCA/Crosta, independent multi-date checks, terrain metrics, multi-azimuth hillshade and screened lineaments.
+- **Deliverables:** analytical maps and plates, an integrated target model, confidence classification, field sampling recommendations and laboratory QA/QC planning.
+- **Decision supported:** prioritize Target A for reconnaissance and representative sampling.
+- **Evidence boundary:** field verification, gold assays and economic viability are not established within this study.
 
-An integrated remote sensing study combining spectral alteration indicators, PCA/Crosta analysis, independent multi-date imagery comparisons, terrain interpretation, and structural lineament analysis.
+[**Read the case study →**](case-studies/01-advanced-gold-exploration/README.md) · [English report · 81 pages](https://github.com/basharalasouli1993-blip/B.M.A/releases/download/exploration-reports-v1/Exploration_Report_EN_Full_Images.pdf) · [التقرير العربي · 81 صفحة](https://github.com/basharalasouli1993-blip/B.M.A/releases/download/exploration-reports-v1/Exploration_Report_AR_Full_Images.pdf)
 
-The study prioritizes a target for follow-up investigation and proposes a staged field sampling and laboratory QA/QC program. Gold mineralization and economic viability have not been established within this study.
+### 02 / Satellite Data Integration for Exploration
+**Sentinel-2 · ASTER · Spectral transforms · Sudan**
 
-Available in Arabic and English, with **81 pages per version**. Detailed location information is withheld.
+A methodology-focused example of combining satellite datasets to investigate alteration indicators and compare historical and recent imagery.
 
-- [Download the English report](https://github.com/basharalasouli1993-blip/B.M.A/releases/download/exploration-reports-v1/Exploration_Report_EN_Full_Images.pdf)
-- [Download the Arabic report](https://github.com/basharalasouli1993-blip/B.M.A/releases/download/exploration-reports-v1/Exploration_Report_AR_Full_Images.pdf)
+- **Methods documented:** preprocessing, band ratios, PCA, MNF and terrain-derived structural context.
+- **Deliverables:** spectral composites, alteration-response maps and comparative interpretations.
+- **Portfolio emphasis:** preparing comparable imagery and interpreting converging evidence across datasets.
 
----
+[**Read the public methodology summary →**](case-studies/02-satellite-data-integration/README.md)
 
-## Validation
+### 03 / Alteration Mapping in a Vegetated Environment
+**Multispectral interpretation · Vegetation interference · Ghana**
 
-For selected gold and copper targets in Sudan and South Africa, laboratory results from samples linked to target coordinates supported the findings. I personally reviewed the laboratory reports.
+A bilingual reporting example addressing the challenge of separating surface alteration responses from vegetation effects.
 
-Satellite analysis supports exploration targeting. Field investigation and laboratory testing are needed to evaluate targets; satellite imagery alone does not establish ore grades or reserves.
+- **Methods documented:** spectral ratios and composites, vegetation masking considerations, and comparison of alteration indicators.
+- **Deliverables:** interpretation maps, technical explanations and recommendations for field follow-up.
+- **Portfolio emphasis:** adapting interpretation to land cover and communicating uncertainty.
 
----
+[**Read the public project summary →**](case-studies/03-vegetated-terrain/README.md)
+
+### 04 / Lithological & Spectral Interpretation
+**Host-rock context · Image comparison · Oman & Mauritania**
+
+Exploration reporting examples examining spectral contrasts, host-rock context and changes between imagery dates.
+
+- **Oman:** interpretation of ultramafic host-rock and chromite-associated surface indicators.
+- **Mauritania:** preliminary spectral alteration screening and multi-date image interpretation.
+- **Portfolio emphasis:** geological context, visual comparison and clear technical reporting.
+
+[**Read the public project summary →**](case-studies/04-lithological-interpretation/README.md)
+
+## Skills & analytical outputs
+
+| Capability | Methods and practical outputs |
+| :--- | :--- |
+| Satellite image processing | Coverage review, clipping, spatial alignment, common-grid preparation and spectral enhancement |
+| Spectral analysis | Band ratios, PCA/Crosta and MNF; composites and potential alteration-response maps |
+| Terrain & structural analysis | DEM interpretation, hillshade, lineament extraction and screening; structural-context maps |
+| Multi-date interpretation | Comparison of historical and recent imagery; review of anomaly persistence and surface change |
+| Evidence integration | Compare coincident responses, define investigation priorities and explain confidence |
+| Technical communication | Thematic maps, figure-led interpretation and Arabic / English reports |
+| Verification planning | Proposed field sampling, laboratory analysis and QA/QC controls |
+
+### Tools
+
+**ArcGIS · QGIS · ENVI · PCI Geomatica · SNAP**
+
+Listed in my CV. Portfolio imagery includes **Sentinel-2 and ASTER** studies, with terrain-derived evidence in the integrated exploration workflow.
+
+**Additional CV-listed experience:** SAR analysis, Random Forest, and AI-assisted Python scripting and deep learning workflows. This repository currently showcases reports and interpretation products; it does not provide runnable code or independently benchmarked models for those additional workflows.
+
+## How I approach an analysis
+
+**Prepare comparable data → screen spectral responses → check persistence → review terrain and structure → integrate evidence → communicate a field-verification decision.**
+
+Spectral responses indicate surface properties and possible alteration. Mineral identity, ore grade, subsurface continuity and economic viability require appropriate ground evidence. Numerical accuracy claims and client assay claims are not presented here as independently validated portfolio results.
+
+## Report library
+
+[**Browse the organized library →**](reports/README.md)
+
+- **Case studies:** concise project narratives and links to the available location-anonymized reports.
+- **Regional catalogues:** inventories of existing reports by study group.
+- **Professional documents:** [CV](professional/Bashar_Mohammad_Alassouli_CV.pdf).
+
+Original repository files remain at their existing paths. Some legacy reports contain location information; their raw PDFs are excluded from the featured navigation pending suitable public editions. The catalogues preserve the inventory without reproducing coordinates or links to study-area boundary data.
 
 ## Education
 
-**Bachelor of Civil Engineering**
-
-Yarmouk University — 2020
-
-**Civil Engineering Training**
-
-Directorate of Public Works, Irbid — 2017
-
----
-
-## CV
-
-[Download my CV (PDF)](./Bashar_Mohammad_Alassouli_International_CV.pdf)
-
----
+**Bachelor of Civil Engineering — Yarmouk University, 2020**  
+Civil engineering training — Directorate of Public Works, Irbid, 2017.
 
 ## Contact
 
-- **Email:** basharalasouli1993@gmail.com
-- **Phone:** +962792902438
-- **Location:** Ajloun, Jordan
-- **LinkedIn:** [Bashar Alassouli](https://www.linkedin.com/in/bashar-alasouli/)
+**Bashar Mohammad Alassouli · Jordan**
 
----
+[**basharalasouli1993@gmail.com**](mailto:basharalasouli1993@gmail.com) · **+962 79 290 2438**  
+[LinkedIn](https://www.linkedin.com/in/bashar-alasouli/) · [GitHub](https://github.com/basharalasouli1993-blip) · [CV](professional/Bashar_Mohammad_Alassouli_CV.pdf)
 
-**Open to remote employment, consulting, and freelance projects in remote sensing, GIS, and mineral exploration.**
+For employment or project enquiries, please include the role or objective, required deliverables and expected timeline.
