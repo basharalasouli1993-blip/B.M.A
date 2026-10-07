@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Satellite imagery → spatial evidence → exploration priorities</strong></p>
 <p align="center">
-<a href="professional/Bashar_Mohammad_Alassouli_CV.pdf">View CV</a> ·
+<a href="professional/Bashar_Mohammad_Alassouli_GIS_Remote_Sensing_CV.pdf">View CV</a> ·
 <a href="#featured-projects">Featured projects</a> ·
 <a href="reports/README.md">Report library</a> ·
 <a href="mailto:basharalasouli1993@gmail.com">Email</a> ·
@@ -15,7 +15,7 @@
 
 I am **Bashar Mohammad Alassouli**, a remote sensing and geospatial analyst with a civil engineering background, based in Jordan. My portfolio focuses on satellite image processing, spectral interpretation, terrain and structural analysis, and technical reporting for mineral exploration.
 
-I independently carry out imagery processing, interpretation, map preparation and reporting. My CV documents international client project work from **2022–2026** and approximately ten years of self-directed learning and practical work in remote sensing.
+I independently carry out imagery processing, interpretation, map preparation and reporting for international client projects. My independent professional work began in **January 2022 and is ongoing**.
 
 **Seeking opportunities in GIS, Remote Sensing, Earth Observation and Geospatial Analysis**, including remote employment, consulting and freelance projects.
 
@@ -98,9 +98,17 @@ Spectral responses indicate surface properties and possible alteration. Mineral 
 
 - **Case studies:** concise project narratives and links to the available location-anonymized reports.
 - **Public report library:** 13 PDF copies (159 pages), organized by study group with direct report links.
-- **Professional documents:** [CV](professional/Bashar_Mohammad_Alassouli_CV.pdf).
+- **Professional documents:** [CV](professional/Bashar_Mohammad_Alassouli_GIS_Remote_Sensing_CV.pdf).
 
 Public copies retain the original page counts and technical figures, with identified coordinates, precise place identifiers and map/boundary links redacted. Original repository files remain unchanged at their existing paths; redacting these copies does not remove location data from the preserved originals.
+
+## Relevant training
+
+Completed **January 2026** training through NASA ARSET, Esri, EO College / HYPERedu, EO AFRICA, FutureLearn and GEO University. Topics include remote sensing fundamentals, hyperspectral imagery, SAR, Earth observation machine learning, drought monitoring, spatial reference systems and archaeological remote sensing.
+
+[**Browse all 24 training records and certificates →**](professional/certificates/README.md) · [**Download the latest approved CV →**](professional/Bashar_Mohammad_Alassouli_GIS_Remote_Sensing_CV.pdf)
+
+**Work availability:** onsite, hybrid or remote within Jordan; international opportunities must allow remote work from Jordan without relocation.
 
 ## Education
 
@@ -112,6 +120,6 @@ Civil engineering training — Directorate of Public Works, Irbid, 2017.
 **Bashar Mohammad Alassouli · Jordan**
 
 [**basharalasouli1993@gmail.com**](mailto:basharalasouli1993@gmail.com) · **+962 79 290 2438**  
-[LinkedIn](https://www.linkedin.com/in/bashar-alasouli/) · [GitHub](https://github.com/basharalasouli1993-blip) · [CV](professional/Bashar_Mohammad_Alassouli_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/bashar-alasouli/) · [GitHub](https://github.com/basharalasouli1993-blip) · [CV](professional/Bashar_Mohammad_Alassouli_GIS_Remote_Sensing_CV.pdf)
 
 For employment or project enquiries, please include the role or objective, required deliverables and expected timeline.
