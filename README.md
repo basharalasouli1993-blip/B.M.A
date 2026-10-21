@@ -66,6 +66,18 @@ Exploration reporting examples examining spectral contrasts, host-rock context a
 
 [**Read the public project summary →**](case-studies/04-lithological-interpretation/README.md)
 
+### 05 / Exploration Opportunity Assessment - Case D
+**Soil geochemistry · Geological / structural context · Magnetics · Multi-date imagery**
+
+A bilingual nine-page assessment evaluating a possible corridor extension. Recorded soil results and surrounding context support focused confirmation of paired elevated values, with explicit controls for overlapping evidence and disturbed ground.
+
+### 06 / Exploration Opportunity Assessment - Case E
+**Evidence weighting · Conflicting indicators · Decision-focused reporting**
+
+A bilingual nine-page review demonstrating why an isolated recorded soil result and marked magnetic contrast are insufficient for escalation. The target remains a lower-priority reserve pending repeated soil evidence and independent local geological support.
+
+[**Read both case summaries and the four public PDFs →**](reports/Exploration_Cases_D_E.md)
+
 ## Skills & analytical outputs
 
 | Capability | Methods and practical outputs |
@@ -97,7 +109,7 @@ Spectral responses indicate surface properties and possible alteration. Mineral 
 [**Browse the organized library →**](reports/README.md)
 
 - **Case studies:** concise project narratives and links to the available location-anonymized reports.
-- **Public report library:** 13 PDF copies (159 pages), organized by study group with direct report links.
+- **Public report library:** 17 PDF copies (195 pages), organized by study group with direct report links.
 - **Professional documents:** [CV](professional/Bashar_Mohammad_Alassouli_GIS_Remote_Sensing_CV.pdf).
 
 Public copies retain the original page counts and technical figures, with identified coordinates, precise place identifiers and map/boundary links redacted. Original repository files remain unchanged at their existing paths; redacting these copies does not remove location data from the preserved originals.
